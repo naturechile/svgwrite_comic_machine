@@ -1,2 +1,4 @@
-# svgwrite_comic_machine
-svg comic page and speech bubble creator in python
+just run the scripts and follow the prompts. 
+you need svgwrite ... maybe install with pip install svgwrite
+you need python3 i think 
+
