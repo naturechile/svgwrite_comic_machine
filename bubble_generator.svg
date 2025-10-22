@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="600" version="1.1" width="800">
+  <defs/>
+  <path d="M 525.0,295.0 A 30 30 0 0 0 512.0,256.0 A 30 30 0 0 0 460.0,191.0 A 30 30 0 0 0 421.0,204.0 A 30 30 0 0 0 343.0,191.0 A 30 30 0 0 0 291.0,243.0 A 30 30 0 0 0 304.0,295.0 A 30 30 0 0 0 291.0,373.0 A 30 30 0 0 0 356.0,412.0 A 30 30 0 0 0 421.0,425.0 A 30 30 0 0 0 473.0,412.0 A 30 30 0 0 0 525.0,360.0 A 30 30 0 0 0 525.0,295.0" fill="#202020" stroke="none"/>
+  <path d="M 517.0,287.0 A 30 30 0 0 0 504.0,248.0 A 30 30 0 0 0 452.0,183.0 A 30 30 0 0 0 413.0,196.0 A 30 30 0 0 0 335.0,183.0 A 30 30 0 0 0 283.0,235.0 A 30 30 0 0 0 296.0,287.0 A 30 30 0 0 0 283.0,365.0 A 30 30 0 0 0 348.0,404.0 A 30 30 0 0 0 413.0,417.0 A 30 30 0 0 0 465.0,404.0 A 30 30 0 0 0 517.0,352.0 A 30 30 0 0 0 517.0,287.0" fill="#FFFFFF" stroke="black" stroke-width="4"/>
+  <circle cx="269.03320721492935" cy="386.6236284298536" fill="#202020" r="11" stroke="none"/>
+  <circle cx="243.2126549020457" cy="401.23219404625644" fill="#202020" r="8" stroke="none"/>
+  <circle cx="217.392102589162" cy="415.8407596626593" fill="#202020" r="5" stroke="none"/>
+  <circle cx="261.03320721492935" cy="378.6236284298536" fill="#FFFFFF" r="11" stroke="black" stroke-width="2.0"/>
+  <circle cx="235.2126549020457" cy="393.23219404625644" fill="#FFFFFF" r="8" stroke="black" stroke-width="2.0"/>
+  <circle cx="209.392102589162" cy="407.8407596626593" fill="#FFFFFF" r="5" stroke="black" stroke-width="2.0"/>
+  <text fill="black" font-family="Impact, sans-serif" font-size="22px" text-anchor="middle" x="400.0" y="310.0">this is wibe coded</text>
+</svg>

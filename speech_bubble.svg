@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="600" version="1.1" width="800">
+  <defs/>
+  <path d="M 397.23113564082325,209.3082666266872 A 150,100 0 1,0 423.3768628780336,209.4603801632821 Q 417.89835502252856,105.194162797301 411.09436851960976,69.00913846459889 Q 403.65990254519386,105.06990570498633 397.23113564082325,209.3082666266872 " fill="#101010" stroke="none" stroke-width="0"/>
+  <path d="M 388.23113564082325,200.3082666266872 A 150,100 0 1,0 414.3768628780336,200.4603801632821 Q 408.89835502252856,96.194162797301 402.09436851960976,60.00913846459889 Q 394.65990254519386,96.06990570498633 388.23113564082325,200.3082666266872 " fill="#FFFFFF" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <text fill="black" font-family="Impact, sans-serif" font-size="22px" text-anchor="middle" x="400.0" y="310.0">please help me make it better</text>
+</svg>
